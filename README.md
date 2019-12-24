@@ -1,4 +1,6 @@
 # word
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxhemj%2Fword.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxhemj%2Fword?ref=badge_shield)
+
 ## 俺 是 头 呆 驴
 
 ##（一定不许笑）
@@ -18,3 +20,7 @@
  
 ## 附：这位小朋友，谢谢你！你，太有才了！能把陆游的词翻译成另一种意思，而且是完完整整的一首自由体诗歌，不简单！意思错了，不怪你，那个老师是半吊子，没讲清楚词意，就让学生听写，怎能不闹笑话呢？
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxhemj%2Fword.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxhemj%2Fword?ref=badge_large)
